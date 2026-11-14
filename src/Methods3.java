@@ -4,4 +4,7 @@ public class Methods3 {
 
         System.out.println("who is this");
     }
+
+    public static class OjectSAMPLE {
+    }
 }
